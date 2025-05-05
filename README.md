@@ -1,10 +1,10 @@
 
-# 🌍 ListOfCountries
+# ListOfCountries
 A Swift-based iOS application that fetches and displays a list of countries with powerful features such as **search**, **filtering**, and **dynamic view modes** (Grid/List). This project uses **MVVM architecture** and is built with testability and clean design principles in mind.
 
 ---
 
-## 📱 Features
+## Features
 
 - Display all countries in either **List View** or **Grid View**
 - Real-time **search functionality**
