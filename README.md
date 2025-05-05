@@ -133,34 +133,7 @@ func searchCountries(keyword: String) {
 
 ## Project Structure
 
-```
-ListOfCountries/
-│
-├── Model/
-│   └── CountryModel.swift
-│
-├── ViewModel/
-│   └── CountriesListViewModel.swift
-│
-├── Views/
-│   ├── CountriesListViewController.swift
-│   ├── CountriesListTableViewCell.swift
-│   └── CountriesListCollectiveViewCell.swift
-│
-├── NetworkLayer/
-│   ├── APIManager.swift
-│   ├── APIManagerProtocol.swift
-│   ├── APIEndpoints.swift
-│   └── NetworkError.swift
-│
-├── Tests/
-│   ├── CountriesListViewModelTests.swift
-│   ├── APIManagerTests.swift
-│   ├── MockAPIManager.swift
-│   └── MockURLProtocol.swift
-│
-└── ListOfCountries.xcodeproj/
-```
+<img width="344" alt="Screenshot 2025-05-05 at 3 10 56 PM" src="https://github.com/user-attachments/assets/019883b7-2337-4595-bf1a-c49e78ccabd8" />
 
 ---
 
