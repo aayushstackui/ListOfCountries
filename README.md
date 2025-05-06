@@ -149,12 +149,6 @@ I'm more than happy for any contributions here! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Author
 
 **Aayush Raghuvanshi**  
